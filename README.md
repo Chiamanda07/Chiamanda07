@@ -7,9 +7,9 @@ I'm really interested in machine learning, circuit design, and control systems. 
 ## 🖥️Tech Stack
 -  Language: Python <img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" width="40" alt="Python">
 -  Data Science: NumPy <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" width="40" alt="Numpy">, Scikit-learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/250px-Scikit_learn_logo_small.svg.png" width="40" alt="Scikitlearn">, Matplotlib <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="40" alt="Matplotlib">, Seaborn <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="40" alt="Seaborn">
--  Web Dev: HTML, CSS,
--  Tools: Jupyter Notebooks, Google Colab
--  Databases: SQLite
+-  Web Dev: HTML <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIxeNFO8PSlvOvudmrtLIOYdTpN6o77VKolQ&s" width="30" alt="HTML">, CSS  <img src="https://img.icons8.com/fluent/512/css3.png" width="40" alt="CSS">,
+-  Tools: Jupyter Notebooks <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40" alt="Jupyter">, Google Colab  <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" width="40" alt="Colab">
+-  Databases: SQLite  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" width="55" alt="CSS">
   ## Projects
   
 - Do Not Be Afraid Website ([Project README](https://github.com/code50/187712214/tree/main/final_project#readme)):
