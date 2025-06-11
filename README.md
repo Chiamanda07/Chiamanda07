@@ -12,7 +12,8 @@ I'm really interested in machine learning, circuit design, and control systems. 
 -  Databases: SQLite
   ## Projects
   
-- Do Not Be Afraid Website: It is a faith-based website that delivers daily Bible verses to encourage users. Built with SQLite, Python, HTML, CSS, and JavaScript, it features user logins, daily verse tracking, and a personalized page for saved verses.
+- Do Not Be Afraid Website ([Project README](https://github.com/code50/187712214/tree/main/final_project#readme)):
+  It is a faith-based website that delivers daily Bible verses to encourage users. Built with SQLite, Python, HTML, CSS, and JavaScript, it features user logins, daily verse tracking, and a personalized page for saved verses.
 - Smart Waste Bin Optimization: This project showcases the development of a Smart Waste Monitoring System using IoT sensors, AI-driven analytics, and real-time cloud connectivity to track bin fill levels, environmental conditions, and classify waste.
 
 
