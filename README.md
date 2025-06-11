@@ -1,9 +1,10 @@
 # Hi, I'm Chiamanda 👋
-
+**Sophomore at McNeese State University, studying Electrical Engineering with a minor in Computer Science
+**
+**Aspiring Robotics engineer🤖**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chiamanda-ononiwu/)](https://www.linkedin.com/in/chiamanda-ononiwu/)
 
-I'm an electrical engineering student with a minor in computer science, I'm really interested in machine learning, circuit design, and control systems.
-For the summer I'm learning machine learning with BreakThrough Tech and doing an undergraduate research project on Smart Waste Bin collection and optimization 🗑️.
+I'm really interested in machine learning, circuit design, and control systems. I love problem-solving and building new skills. Currently, I'm a BreakThrough Tech fellow learning machine learning.
 I'm proficient in the following programing languages:
 -  Python with libraries like NumPy, Scikit-learn, Matplotlib, Seaborn
 -  MATLAB
