@@ -12,9 +12,9 @@ I'm really interested in machine learning, circuit design, and control systems. 
 -  Databases: SQLite  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" width="55" alt="CSS">
   ## Projects
   
-- Do Not Be Afraid Website ([Project README](https://github.com/code50/187712214/tree/main/final_project#readme)):
+- Do Not Be Afraid Website ([Project README]):
   It is a faith-based website that delivers daily Bible verses to encourage users. Built with SQLite, Python, HTML, CSS, and JavaScript, it features user logins, daily verse tracking, and a personalized page for saved verses.
-- Smart Waste Bin Optimization: This project showcases the development of a Smart Waste Monitoring System using IoT sensors, AI-driven analytics, and real-time cloud connectivity to track bin fill levels, environmental conditions, and classify waste.
+- Smart Waste Bin Optimization ([Project README](https://github.com/Chiamanda07/C.L.E.A.R-Smart-City-Project)): This project showcases the development of a Smart Waste Monitoring System using IoT sensors, AI-driven analytics, and real-time cloud connectivity to track bin fill levels, environmental conditions, and classify waste.
 
 ## What I'm Learning
 
