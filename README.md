@@ -17,6 +17,8 @@ I'm really interested in machine learning, circuit design, and control systems. 
 - Smart Waste Bin Optimization ([Project README](https://github.com/Chiamanda07/C.L.E.A.R-Smart-City-Project)): This project showcases the development of a Smart Waste Monitoring System using IoT sensors, AI-driven analytics, and real-time cloud connectivity to track bin fill levels, environmental conditions, and classify waste.
 
 ## What I'm Learning
+- Deepening my knowledge and practical skills in machine learning, including data preprocessing, model training, and evaluation.
+- Gaining hands-on experience with Verilog HDL programming for designing and simulating digital circuits.
 
 How to reach me:[![Gmail](https://img.shields.io/badge/-white?logo=gmail&logoColor=red&label=)](mailto:karenononiwu15@gmail.com)[![LinkedIn](https://img.shields.io/badge/-L-blue?logo=linkedin&logoColor=blue&label=)](https://www.linkedin.com/in/chiamanda-ononiwu/)
 
