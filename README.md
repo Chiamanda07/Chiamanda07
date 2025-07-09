@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://example.com/your-image.jpg" alt="Chiamanda" width="200" style="border-radius: 50%;">
+</p>
+
 # Hi, I'm Chiamanda 👋
 **🎓Sophomore at McNeese State University, studying Electrical Engineering with a minor in Computer Science.  
 🤖Aspiring Robotics engineer**
