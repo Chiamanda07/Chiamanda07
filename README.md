@@ -4,7 +4,7 @@
 
 # Hi, I'm Chiamanda 👋
 **🎓Sophomore at McNeese State University, studying Electrical Engineering with a minor in Computer Science.  
-🤖Aspiring Robotics engineer
+🤖Aspiring Robotics engineer 
 [LinkedIn](https://www.linkedin.com/in/chiamanda-ononiwu/)**
 
 I'm really interested in machine learning, circuit design, and control systems. I love problem-solving and building new skills. Currently, I'm a BreakThrough Tech fellow learning machine learning.  
