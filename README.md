@@ -26,7 +26,7 @@ I'm really interested in machine learning, circuit design, and control systems. 
 - Deepening my knowledge and practical skills in machine learning, including data preprocessing, model training, and evaluation.
 - Gaining hands-on experience with Verilog HDL programming for designing and simulating digital circuits.
 
-How to reach me:[![Gmail](https://img.shields.io/badge/-white?logo=gmail&logoColor=red&label=)](mailto:karenononiwu15@gmail.com)[![LinkedIn](https://img.shields.io/badge/-L-blue?logo=linkedin&logoColor=blue&label=)](https://www.linkedin.com/in/chiamanda-ononiwu/)  
+Don't hesitate to reach me 😜 :[![Gmail](https://img.shields.io/badge/-white?logo=gmail&logoColor=red&label=)](mailto:karenononiwu15@gmail.com)[![LinkedIn](https://img.shields.io/badge/-L-blue?logo=linkedin&logoColor=blue&label=)](https://www.linkedin.com/in/chiamanda-ononiwu/)  
 
 ## GitHub Stats  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chiamanda07&theme=dark)](https://git.io/streak-stats)  
