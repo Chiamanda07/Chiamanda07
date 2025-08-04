@@ -5,6 +5,7 @@
 Let's connect: [LinkedIn](https://www.linkedin.com/in/chiamanda-ononiwu/)  
 Gmail: karenononiwu15@gmail.com**
 
+I'm passionate about building new technologies that have real world impact and improve the lives of others
 I'm really interested in machine learning, circuit design, and control systems. I love problem-solving and building new skills. Currently, I'm a BreakThrough Tech fellow learning machine learning.  
 
 ## 🖥️Tech Stack  
