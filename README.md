@@ -51,10 +51,11 @@ I'm really interested in machine learning, circuit design, and control systems. 
 
   ## Projects
   
+
+- book-review-sentiment-classifier([Project README](https://github.com/Chiamanda07/ML_bookReview_Project)): Trained a Logistic Regression model to classify book reviews as positive or negative.
 - do-not-be-afraid Website ([Website Walkthrough Video](https://www.youtube.com/watch?v=xSBerlIhpBc)):
   It is a faith-based website that delivers daily Bible verses to encourage users. Built with SQLite, Python, HTML, CSS, and JavaScript, it features user logins, daily verse tracking, and a personalized page for saved verses.
 - smart-waste-bin- optimization ([Project README](https://github.com/Chiamanda07/C.L.E.A.R-Smart-City-Project)): This project showcases the development of a Smart Waste Monitoring System using IoT sensors, AI-driven analytics, and real-time cloud connectivity to track bin fill levels, environmental conditions, and classify waste.
-
 ## What I'm Learning
 - Deepening my knowledge and practical skills in machine learning, including data preprocessing, model training, and evaluation.
 - Gaining hands-on experience with Verilog HDL programming for designing and simulating digital circuits.
