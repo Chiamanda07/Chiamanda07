@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="me-picture.jpg" alt="Chiamanda" width="200" style="border-radius: 50%;">
-</p>
 
 # Hi, I'm Chiamanda 👋
 **🎓Sophomore at McNeese State University, studying Electrical Engineering with a minor in Computer Science.  
