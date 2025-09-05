@@ -13,8 +13,11 @@ I'm really interested in machine learning, circuit design, and control systems. 
 <table style="font-size: 2px;">
   <tr>
     <td><strong>Language:</strong></td>
-    <td>Python</td>
-    <td><img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" width="40" alt="Python"></td>
+    <td>Python, C++</td>
+    <td>
+      <img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" width="40" alt="Python">
+      <img src="https://assets.codeguru.com/uploads/2003/02/C-tutorials.jpg" width="40" alt="C++">
+    </td>
   </tr>
   <tr>
     <td><strong>Data Science:</strong></td>
