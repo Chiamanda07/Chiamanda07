@@ -56,14 +56,14 @@ I'm really interested in robotics, machine learning, circuit design, and control
   ## Projects
   
 
-- training-foundation-models-for-satellite-image-intelligence([Project README](https://github.com/zainakhalil/Ursa-Space-1A)):This project focuses on classifying vessels and icebergs in synthetic aperture radar (SAR) satellite imagery by comparing a base model to open-source pre-trained computer vision models. The process involves cleaning and preparing the SAR dataset, building baseline classifiers, extracting embeddings from pre-trained models, and then training downstream classifiers to assess performance improvements.
+- **training-foundation-models-for-satellite-image-intelligence**([Project README](https://github.com/zainakhalil/Ursa-Space-1A)):This project focuses on classifying vessels and icebergs in synthetic aperture radar (SAR) satellite imagery by comparing a base model to open-source pre-trained computer vision models. The process involves cleaning and preparing the SAR dataset, building baseline classifiers, extracting embeddings from pre-trained models, and then training downstream classifiers to assess performance improvements.
   
-- book-review-sentiment-classifier([Project README](https://github.com/Chiamanda07/ML_bookReview_Project)): Trained a Logistic Regression model to classify book reviews as positive or negative.
+- **book-review-sentiment-classifier**([Project README](https://github.com/Chiamanda07/ML_bookReview_Project)): Trained a Logistic Regression model to classify book reviews as positive or negative.
   
-- do-not-be-afraid Website ([Website Walkthrough Video](https://www.youtube.com/watch?v=xSBerlIhpBc)):
+- **do-not-be-afraid-website** ([Website Walkthrough Video](https://www.youtube.com/watch?v=xSBerlIhpBc)):
   It is a faith-based website that delivers daily Bible verses to encourage users. Built with SQLite, Python, HTML, CSS, and JavaScript, it features user logins, daily verse tracking, and a personalized page for saved verses.
   
-- smart-waste-bin- optimization ([Project README](https://github.com/Chiamanda07/C.L.E.A.R-Smart-City-Project)): This project showcases the development of a Smart Waste Monitoring System using IoT sensors, AI-driven analytics, and real-time cloud connectivity to track bin fill levels, environmental conditions, and classify waste.
+- **smart-waste-bin- optimization** ([Project README](https://github.com/Chiamanda07/C.L.E.A.R-Smart-City-Project)): This project showcases the development of a Smart Waste Monitoring System using IoT sensors, AI-driven analytics, and real-time cloud connectivity to track bin fill levels, environmental conditions, and classify waste.
 ## What I'm Learning
 - Deepening my knowledge and practical skills in machine learning, including data preprocessing, model training, and evaluation.
 - Learning PyTorch.
