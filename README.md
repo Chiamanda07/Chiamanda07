@@ -56,6 +56,7 @@ I'm really interested in robotics, machine learning, circuit design, and control
   ## Projects
   
 
+- training-foundation-models-for-satellite-image-intelligence([Project README](https://github.com/zainakhalil/Ursa-Space-1A)): Training a Classification model to identify icebergs from ships with SAR images.
 - book-review-sentiment-classifier([Project README](https://github.com/Chiamanda07/ML_bookReview_Project)): Trained a Logistic Regression model to classify book reviews as positive or negative.
 - do-not-be-afraid Website ([Website Walkthrough Video](https://www.youtube.com/watch?v=xSBerlIhpBc)):
   It is a faith-based website that delivers daily Bible verses to encourage users. Built with SQLite, Python, HTML, CSS, and JavaScript, it features user logins, daily verse tracking, and a personalized page for saved verses.
