@@ -76,7 +76,7 @@ I'm really interested in robotics, machine learning, circuit design, and control
 📬 You can reach me at karenononiwu15@gmail.com 
 
 
-🌍 Check out more of what I’m building: [github.com/Chiamanda07](https://github.com/kingnaddy)
+🌍 Check out more of what I’m building: [github.com/Chiamanda07](https://github.com/Chiamanda07)
 
 
 
