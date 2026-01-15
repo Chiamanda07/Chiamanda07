@@ -51,6 +51,14 @@ I'm really interested in robotics, machine learning, circuit design, and control
     <td>SQLite</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" width="55" alt="SQLite"></td>
   </tr>
+  <tr>
+    <td><strong>Design Tools:</strong></td>
+    <td> Kicad, Fusion 360 </td>
+    <td>
+      <img src="https://community.aisler.net/uploads/default/original/1X/bd76c59d8985e3e96370e5054eefa3a62f9be00f.png" width="50" alt="KiCAD">
+      <img src="https://images.seeklogo.com/logo-png/48/1/autodesk-fusion-360-logo-png_seeklogo-482400.png" width="40" alt="Fusion 360">
+    </td>
+  </tr>
 </table>
 
   ## Projects
@@ -65,8 +73,10 @@ I'm really interested in robotics, machine learning, circuit design, and control
   
 - **smart-waste-bin- optimization** ([Project README](https://github.com/Chiamanda07/C.L.E.A.R-Smart-City-Project)): This project showcases the development of a Smart Waste Monitoring System using IoT sensors, AI-driven analytics, and real-time cloud connectivity to track bin fill levels, environmental conditions, and classify waste.
 ## What I'm Learning
+- Cirucuit design and PCB design
 - Deepening my knowledge and practical skills in machine learning, including data preprocessing, model training, and evaluation.
 - Learning PyTorch.
+
 
 
 ### 🤝 Let’s Connect
