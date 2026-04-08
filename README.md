@@ -21,7 +21,7 @@ I'm really interested in robotics, machine learning, circuit design, and control
   </tr>
   <tr>
     <td><strong>Data Science:</strong></td>
-    <td>NumPy, Scikit-learn, Matplotlib, Seaborn</td>
+    <td>NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, Keras</td>
     <td>
       <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" width="40" alt="Numpy">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/250px-Scikit_learn_logo_small.svg.png" width="40" alt="Scikit-learn">
