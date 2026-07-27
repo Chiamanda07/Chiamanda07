@@ -1,66 +1,53 @@
 
 # Hi, I'm Chiamanda 👋
-**🎓Sophomore at McNeese State University, studying Electrical Engineering with a minor in Computer Science.  
-🤖Aspiring Robotics engineer  
+**🎓Rising Junior at McNeese State University, studying Electrical Engineering with a minor in Computer Science.  
+🤖Aspiring Robotics engineer/Chip designer  
 Let's connect: [LinkedIn](https://www.linkedin.com/in/chiamanda-ononiwu/)  
 Gmail: karenononiwu15@gmail.com**
 
-I'm passionate about building new technologies that have real world impact and improve the lives of others.  
-I'm really interested in robotics, machine learning, circuit design, and control systems. I love problem-solving and building new skills. Currently, I'm a BreakThrough Tech fellow learning machine learning.  
+- I'm passionate about building technologies that have a real-world impact and improve people's lives. 
+- My interests span robotics, machine learning, digital circuit design, and the breakthroughs in chip design that are driving more powerful and energy-efficient computing.
+- I'm fascinated by how advances in semiconductor technology are accelerating innovation across AI and robotics, and I enjoy solving challenging problems while continuously learning new skills. 
 
 ## 🖥️Tech Stack  
-<table>  
-<table style="font-size: 2px;">
+<table>
   <tr>
-    <td><strong>Language:</strong></td>
-    <td>Python, C++</td>
-    <td>
-      <img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" width="40" alt="Python">
-      <img src="https://assets.codeguru.com/uploads/2003/02/C-tutorials.jpg" width="40" alt="C++">
-    </td>
+    <td><strong>Languages:</strong></td>
+    <td>Python, C++, Verilog</td>
+    <!-- Future: Add SystemVerilog -->
   </tr>
+
   <tr>
-    <td><strong>Data Science:</strong></td>
+    <td><strong>Hardware Design:</strong></td>
+    <td>Digital Logic, RTL Design, PCB Design, FPGA Development</td>
+  </tr>
+
+  <tr>
+    <td><strong>EDA Tools:</strong></td>
+    <td>Vivado, KiCad, LTspice, Falstad, Tinkercad, Fusion 360</td>
+  </tr>
+
+  <tr>
+    <td><strong>Hardware Platforms:</strong></td>
+    <td>Basys 3 FPGA, ESP32, Arduino</td>
+  </tr>
+
+  <tr>
+    <td><strong>Data Science & Machine Learning:</strong></td>
     <td>NumPy, Scikit-learn, Matplotlib, Seaborn, PyTorch, Keras</td>
-    <td>
-      <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" width="40" alt="Numpy">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/250px-Scikit_learn_logo_small.svg.png" width="40" alt="Scikit-learn">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="40" alt="Matplotlib">
-      <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="40" alt="Seaborn">
-    </td>
   </tr>
-  <tr>
-    <td><strong>Web Dev:</strong></td>
-    <td>HTML, CSS</td>
-    <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIxeNFO8PSlvOvudmrtLIOYdTpN6o77VKolQ&s" width="30" alt="HTML">
-      <img src="https://img.icons8.com/fluent/512/css3.png" width="40" alt="CSS">
-    </td>
-  </tr>
+
   <tr>
     <td><strong>Tools:</strong></td>
     <td>Jupyter Notebooks, Google Colab, Arduino IDE</td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="40" alt="Jupyter">
-      <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" width="40" alt="Colab">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" alt="Arduino">
-    </td>
   </tr>
+
   <tr>
     <td><strong>Databases:</strong></td>
     <td>SQLite</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/2560px-SQLite370.svg.png" width="55" alt="SQLite"></td>
-  </tr>
-  <tr>
-    <td><strong>Design Tools:</strong></td>
-    <td> Kicad, Fusion 360 </td>
-    <td>
-      <img src="https://community.aisler.net/uploads/default/original/1X/bd76c59d8985e3e96370e5054eefa3a62f9be00f.png" width="50" alt="KiCAD">
-      <img src="https://images.seeklogo.com/logo-png/48/1/autodesk-fusion-360-logo-png_seeklogo-482400.png" width="40" alt="Fusion 360">
-    </td>
   </tr>
 </table>
-
+  
   ## Projects
   
 
