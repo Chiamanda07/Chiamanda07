@@ -59,10 +59,10 @@ Gmail: karenononiwu15@gmail.com**
   It is a faith-based website that delivers daily Bible verses to encourage users. Built with SQLite, Python, HTML, CSS, and JavaScript, it features user logins, daily verse tracking, and a personalized page for saved verses.
   
 - **smart-waste-bin- optimization** ([Project README](https://github.com/Chiamanda07/C.L.E.A.R-Smart-City-Project)): This project showcases the development of a Smart Waste Monitoring System using IoT sensors, AI-driven analytics, and real-time cloud connectivity to track bin fill levels, environmental conditions, and classify waste.
-## What I'm Learning
-- Cirucuit design and PCB design
+## What I'm Improving on
+- Circuit design and PCB design
+- Deepening my understanding of Verilog and soon SystemVerilog
 - Deepening my knowledge and practical skills in machine learning, including data preprocessing, model training, and evaluation.
-- Learning PyTorch.
 
 
 
