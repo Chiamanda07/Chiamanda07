@@ -48,17 +48,34 @@ Gmail: karenononiwu15@gmail.com**
   </tr>
 </table>
   
-  ## Projects
-  
+  ## 🚀 Featured Projects
 
-- **training-foundation-models-for-satellite-image-intelligence**([Project README](https://github.com/zainakhalil/Ursa-Space-1A)):This project focuses on classifying vessels and icebergs in synthetic aperture radar (SAR) satellite imagery by comparing a base model to open-source pre-trained computer vision models. The process involves cleaning and preparing the SAR dataset, building baseline classifiers, extracting embeddings from pre-trained models, and then training downstream classifiers to assess performance improvements.
-  
-- **book-review-sentiment-classifier**([Project README](https://github.com/Chiamanda07/ML_bookReview_Project)): Trained a Logistic Regression model to classify book reviews as positive or negative.
-  
-- **do-not-be-afraid-website** ([Website Walkthrough Video](https://www.youtube.com/watch?v=xSBerlIhpBc)):
-  It is a faith-based website that delivers daily Bible verses to encourage users. Built with SQLite, Python, HTML, CSS, and JavaScript, it features user logins, daily verse tracking, and a personalized page for saved verses.
-  
-- **smart-waste-bin- optimization** ([Project README](https://github.com/Chiamanda07/C.L.E.A.R-Smart-City-Project)): This project showcases the development of a Smart Waste Monitoring System using IoT sensors, AI-driven analytics, and real-time cloud connectivity to track bin fill levels, environmental conditions, and classify waste.
+### 🔧 Mandy-Macropad (Embedded Systems / PCB / ESP32 / Hardware Design)
+[Project README](https://github.com/Chiamanda07/Mandy-macropad)
+
+Designed and built a custom programmable macropad using an ESP32-S3 microcontroller, integrating embedded firmware, hardware components, and 3D-printed mechanical design. The macropad features customizable key mappings, OLED display, RGB lighting, and wireless connectivity, showcasing skills in embedded systems development, PCB design, and hardware prototyping.
+
+---
+
+### 🛰️ Training Foundation Models for Satellite Image Intelligence (Machine Learning / Computer Vision)
+[Project README](https://github.com/zainakhalil/Ursa-Space-1A)
+
+This project focuses on classifying vessels and icebergs in synthetic aperture radar (SAR) satellite imagery by comparing baseline models with open-source pre-trained computer vision models. The process involved cleaning and preparing SAR datasets, building baseline classifiers, extracting embeddings from foundation models, and training downstream classifiers to evaluate performance improvements in satellite image understanding.
+
+---
+
+### 🤖 GEM: The Sentiment Robot (Robotics + AI)
+[Project README](https://github.com/Chiamanda07/GEM-the-sentiment-Robot)
+
+Developed an interactive sentiment-aware robot that combines natural language processing, machine learning, and embedded systems to create a more engaging human–robot interaction experience. GEM analyzes user sentiment and responds through robotic behaviors, demonstrating the integration of AI models with physical computing and robotics applications.
+
+---
+
+### 🌸 Flower Keychain (PCB Design)
+[Project README](https://github.com/Chiamanda07/Flower-Keychain)
+
+Designed and developed a custom flower-shaped PCB keychain, combining circuit design, PCB layout, and hardware prototyping. The project involved schematic design, component selection, PCB routing, and preparing the board for fabrication. This project demonstrates experience with PCB design workflows, electronic hardware development, and transforming creative concepts into functional embedded devices.
+
 ## What I'm Improving on
 - Circuit design and PCB design
 - Deepening my understanding of Verilog and soon SystemVerilog
