@@ -2,7 +2,8 @@
 # Hi, I'm Chiamanda 👋
 **🎓Rising Junior at McNeese State University, studying Electrical Engineering with a minor in Computer Science.  
 🤖Aspiring Robotics engineer/Chip designer  
-Let's connect: [LinkedIn](https://www.linkedin.com/in/chiamanda-ononiwu/)  
+Let's connect: [LinkedIn](https://www.linkedin.com/in/chiamanda-ononiwu/)
+Website: [Personal Website](https://chiamanda-portfolio.netlify.app/)
 Gmail: karenononiwu15@gmail.com**
 
 - I'm passionate about building technologies that have a real-world impact and improve people's lives. 
