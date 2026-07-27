@@ -48,9 +48,9 @@ Gmail: karenononiwu15@gmail.com**
   </tr>
 </table>
   
-  ## 🚀 Featured Projects
+  ## Featured Projects
 
-### 🔧 Mandy-Macropad (Embedded Systems / PCB / ESP32 / Hardware Design)
+### ⌨️ Mandy-Macropad (Embedded Systems / PCB / ESP32 / Hardware Design)
 [Project README](https://github.com/Chiamanda07/Mandy-macropad)
 
 Designed and built a custom programmable macropad using an ESP32-S3 microcontroller, integrating embedded firmware, hardware components, and 3D-printed mechanical design. The macropad features customizable key mappings, OLED display, RGB lighting, and wireless connectivity, showcasing skills in embedded systems development, PCB design, and hardware prototyping.
