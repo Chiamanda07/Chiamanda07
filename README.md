@@ -57,6 +57,12 @@ Gmail: karenononiwu15@gmail.com**
 Designed and built a custom programmable macropad using an ESP32-S3 microcontroller, integrating embedded firmware, hardware components, and 3D-printed mechanical design. The macropad features customizable key mappings, OLED display, RGB lighting, and wireless connectivity, showcasing skills in embedded systems development, PCB design, and hardware prototyping.
 
 ---
+### 👶 Baby Zone Monitoring FPGA Implementation (FPGA / RTL Design / Verilog)
+[Project README](https://github.com/Chiamanda07/Baby-Zone--Monitoring-FPGA-Implementation/tree/main)
+
+Designed and implemented an FPGA-based monitoring system using Verilog and digital design principles. The project focuses on developing hardware logic for real-time monitoring applications, demonstrating skills in RTL design, FPGA development, and hardware implementation. This project strengthened my understanding of hardware description languages, digital circuits, and designing efficient systems for real-world applications.
+
+---
 
 ### 🛰️ Training Foundation Models for Satellite Image Intelligence (Machine Learning / Computer Vision)
 [Project README](https://github.com/zainakhalil/Ursa-Space-1A)
